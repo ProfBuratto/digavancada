@@ -46,8 +46,7 @@
 *.mod*
 *.cmd
 .tmp_versions/
-blink/.vscode/*
-blink/build/*
+./blink/build/*
 modules.order
 Module.symvers
 Mkfile.old
