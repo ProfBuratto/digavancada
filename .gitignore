@@ -46,8 +46,9 @@
 *.mod*
 *.cmd
 .tmp_versions/
-./blink/build/*
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+blink/build
+
